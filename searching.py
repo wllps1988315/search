@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 def sequentialSearch(alist, item):
-    '''
+    '''The Sequential Search
     :param alist:
     :param item:
     :return:
