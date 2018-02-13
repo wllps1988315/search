@@ -20,6 +20,7 @@ def shortBubbleSort(alist):
     it has the capability to do something most sorting algorithms cannot. In particular, if during a pass there are no exchanges,
     then we know that the list must be sorted. A bubble sort can be modified to stop early if it finds that the list has become sorted.
     This means that for lists that require just a few passes, a bubble sort may have an advantage in that it will recognize the sorted list and stop.
+    冒泡排序的原理：每一趟只能确定将一个数归位。即第一趟只能将第末位（第5位）上的数归位，第二趟只能将倒数第2位上的数（第4位）归位，第三趟只能将倒数第3位上的数（第3位）归位，可是现在前面还有两个位置上的数没有归位，所以依然要进行“第四趟”
     :param alist:
     :return:
     '''
