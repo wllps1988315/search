@@ -14,3 +14,7 @@ def insertionSort(alist):
 alist = [54,26,93,17,77,31,44,55,20]
 insertionSort(alist)
 print(alist)
+
+
+[5, 15, 4, 18, 12, 19, 14, 10, 8, 20]
+[4, 5, 15, 18, 12, 19, 14, 10, 8, 20]

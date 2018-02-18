@@ -26,3 +26,5 @@ def gapInsertionSort(alist,start,gap):
 alist = [54,26,93,17,77,31,44,55,20]
 shellSort(alist)
 print(alist)
+
+[3, 7 , 9 , 12, 5, 8 , 16 , 17, 19, 20 ]
