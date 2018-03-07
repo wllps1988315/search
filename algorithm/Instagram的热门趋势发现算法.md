@@ -2,4 +2,4 @@
 
 直观地讲，热门标签是一个比平时用得多的标签，而这种情况是由那个时刻发生的特定事件所导致。比如，在Instagram撰写那篇博文时，#equality就是一个热门标签，即当时有许多人用它分享图片：
 
-https://github.com/wllps1988315/search/pic/1.jpg
+[img src="../pic/1.jpg"]
